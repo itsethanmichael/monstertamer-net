@@ -23,8 +23,8 @@ a:hover { cursor: pointer; }
 
 .socialIcon {
 
-  width: 5vw;
-  max-width: 200px;
+  width: calc(50px + 3vw);
+  max-width: 300px;
   
 }
 
