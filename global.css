@@ -27,5 +27,7 @@ a:hover { cursor: pointer; }
 #bodyDiv {
 
   font-size: calc(12px + 10vh);
+
+  color: red;
   
 }
