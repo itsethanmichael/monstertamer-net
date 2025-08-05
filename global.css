@@ -15,6 +15,12 @@ a {
 
 a:hover { cursor: pointer; }
 
+#headerDiv {
+
+  margin-bottom: 15vh;
+  
+}
+
 .socialIcon {
 
   width: 5vw;
