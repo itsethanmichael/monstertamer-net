@@ -17,7 +17,7 @@ a:hover { cursor: pointer; }
 
 #headerDiv {
 
-  margin-bottom: 15vh;
+  margin-bottom: 10vh;
   
 }
 
@@ -32,8 +32,12 @@ a:hover { cursor: pointer; }
 
 #bodyDiv {
 
+  margin: 10%;
+
   font-size: calc(12px + 10vh);
 
   color: red;
+
+  border: 5px groove #d37979;
   
 }
