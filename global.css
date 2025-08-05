@@ -1,6 +1,25 @@
 body {
 
+  font-family: Impact;
   background-color: black;
   color: white;
+    
+}
+
+a {
+  
+  color: cyan;
+  text-decoration: underline;
+    
+}
+
+a:hover { cursor: pointer; }
+
+.socialIcon {
+
+  width: 2.5vw;
+  max-width: 300px;
   
 }
+
+.socialIcon:hover { cursor: pointer; }
