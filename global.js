@@ -7,7 +7,7 @@ function goTo(x) {
 
     case 0:
 
-      window.location.href = "https://www.youtube.com/@MonsterTamer2D";
+      window.location.href = "https://www.youtube.com/@MonsterTamer2D/?sub_confirmation=1";
       break;
       
   }
