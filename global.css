@@ -58,7 +58,7 @@ a:hover { cursor: pointer; }
   justify-items: center;
   justify-self: center;
 
-	width: 100%;
+	width: fit-content;
 
 	margin: 10%;
 
