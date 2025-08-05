@@ -32,12 +32,36 @@ a:hover { cursor: pointer; }
 
 #bodyDiv {
 
+	align-items: center;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  justify-self: center;
+
   margin: 10%;
 
-  font-size: calc(12px + 10vh);
+  font-size: calc(24px + 1vh);
 
   color: red;
 
   border: 5px groove #d37979;
   
+}
+
+#progressUpdateText {
+
+	align-items: center;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  justify-self: center;
+
+	width: 100%;
+
+	margin: 10%;
+
+	font-size: calc(20px + 1vh);
+
 }
