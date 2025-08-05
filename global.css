@@ -23,3 +23,9 @@ a:hover { cursor: pointer; }
 }
 
 .socialIcon:hover { cursor: pointer; }
+
+#bodyDiv {
+
+  font-size: calc(12px + 10vh);
+  
+}
