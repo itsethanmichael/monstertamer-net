@@ -21,6 +21,12 @@ a:hover { cursor: pointer; }
   
 }
 
+#logo {
+
+	border-radius: 10px;
+
+}
+
 .socialIcon {
 
   width: calc(50px + 3vw);
@@ -65,5 +71,7 @@ a:hover { cursor: pointer; }
 	font-size: calc(20px + 1vh);
 
 	border: 5px groove #d37979;
+
+	border-radius: 10px;
 
 }
